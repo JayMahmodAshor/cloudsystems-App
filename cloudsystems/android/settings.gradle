@@ -1,0 +1,3 @@
+rootProject.name = 'cloudsystems'
+
+include ':app'
